@@ -20,3 +20,4 @@ char *_getline(FILE *fp)
 		exit(EXIT_SUCCESS);
 	}
 	return (line);
+}
